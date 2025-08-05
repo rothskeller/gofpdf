@@ -22,6 +22,8 @@ github.com/rothskeller/gofpdi v1.0.20 h1:+mcMOzd/NWr4ghs9/aLR2rgB4zj3ck0zZOMJelq
 github.com/rothskeller/gofpdi v1.0.20/go.mod h1:EFAHfuH1d2ezTm4gUf1DF7s3Mt3C7LS/ommuC7AVUyM=
 github.com/rothskeller/gofpdi v1.0.21 h1:sTiNPCGl6bZK/oMvacid23B9vspNXwH1baP35NaEyJg=
 github.com/rothskeller/gofpdi v1.0.21/go.mod h1:EFAHfuH1d2ezTm4gUf1DF7s3Mt3C7LS/ommuC7AVUyM=
+github.com/rothskeller/gofpdi v1.0.22 h1:1Oom117ZL9EdvJlZP4Mn2nqLXInmNlCjtHiX25psebU=
+github.com/rothskeller/gofpdi v1.0.22/go.mod h1:EFAHfuH1d2ezTm4gUf1DF7s3Mt3C7LS/ommuC7AVUyM=
 github.com/ruudk/golang-pdf417 v0.0.0-20181029194003-1af4ab5afa58 h1:nlG4Wa5+minh3S9LVFtNoY+GVRiudA2e3EVfcCi3RCA=
 github.com/ruudk/golang-pdf417 v0.0.0-20181029194003-1af4ab5afa58/go.mod h1:6lfFZQK844Gfx8o5WFuvpxWRwnSoipWe/p622j1v06w=
 github.com/stretchr/testify v1.2.2 h1:bSDNvY7ZPG5RlJ8otE/7V6gMiyenm9RtJ7IUVIAoJ1w=
